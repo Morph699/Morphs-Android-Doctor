@@ -1,133 +1,118 @@
-<img width="720" height="1280" alt="Android Doctor" src="https://github.com/user-attachments/assets/2de08fce-0f67-44b5-bc05-fc2ef68df307" />
+<img width="1664" height="2496" alt="Android Doctor_New" src="https://github.com/user-attachments/assets/62eebdc1-5d1b-43b3-b29b-64f3bbdc5943" />
 
-🐉 MORPHS ANDROID DOCTOR
+Welcome to Morphs Android Doctor — an independent, full-spectrum diagnostic
+workstation engineered to inspect, benchmark, and triage your Android phone’s
+hardware health with laboratory precision.
 
-Ultimate Hardware Diagnostic & Performance Benchmark Utility
+Operating 100% client-side with zero external servers and zero data tracking,
+Morphs Android Doctor gives technicians, phone buyers, and everyday power users
+complete transparency over their device's physical condition, display digitizer,
+compute performance, audio latency, and battery power delivery.
 
-Morphs Android Doctor is a lightweight, zero-bloat hardware diagnostic suite and
-performance benchmark engine designed specifically for Android. Built entirely
-client-side, it delivers deep, non-invasive hardware audits, high-stress GPU
-rendering tests, sensor verification, and real-time display telemetry—without
-background battery drain or external bloat.
+🏛️ Multi-View Room Architecture (No Clutter, Zero Cognitive Overload)
 
-🌟 HIGHLIGHT FEATURES & DIAGNOSTIC SUITES
+Say goodbye to endless, confusing lists. Morphs Android Doctor organizes all 26
+diagnostic suites into dedicated, focused testing rooms designed for clean,
+sequential execution:
 
-🍩 1. 2-Phase 3D GPU Stress & Kinetic Swarm
+  - 🏠 Master Landing Hub (View 0):
 
-  - Phase 1 (AnTuTu-Style Wireframe Torus): Generates 144,000+ polygons/sec with
-    high-frequency particle vortex rays to stress-test GPU frame pacing, thermal
-    headroom, and rendering stability.
-  - Phase 2 (Touch-Guided Kinetic Comet Swarm): Interactive touch-guided 3D
-    particle stream verifying touch-to-render compositor response latency and
-    multi-threaded WebGL/Canvas pipelines.
+      - Live OEM Device Identification: Automatically detects and displays your
+        exact device brand and model (e.g., Samsung Galaxy A33 5G / SM-A336,
+        Google Pixel, Xiaomi, OnePlus) alongside physical screen resolution,
+        dynamic DPR scaling, CPU core concurrency, RAM class, and live display
+        refresh rate (FPS).
+      - 3D Motion Radar & Fluid Level: Real-time 60 FPS three-axis bubble level
+        calibrated to your device's physical gyroscope and accelerometer.
+      - Auto-Pristine Room Entry: Tapping any scan room automatically
+        initializes a clean, fresh test ledger so you always start at 0
+        completed.
 
-🎙️ 2. Calibrated Acoustic dB Meter & FFT Studio
+  - 🟢 Quick System Scan Room (8 Core Automated Tests • ~25s):
 
-  - Logarithmic Decibel Tachometer: Measures real-time acoustic sound pressure
-    levels from 20 dB (whisper) to 110+ dB (loud environments).
-  - Live Telemetry & FFT Waveform: Tracks real-time RMS energy, Peak dB Hold,
-    and displays an oscillating Fourier time-domain audio wave.
+      - Rapid, non-invasive health sweep designed for daily checkups.
+      - Sequential Pipeline: Multi-CDN Network Ping & Jitter ➔ Dedicated Battery
+        Hardware & Thermals ➔ 150Hz–12kHz Stereo Oscillator Sweep ➔ Visual DOM
+        Layout Reflow Latency ➔ Fast IndexedDB Storage I/O Throughput ➔ 5-Second
+        Sustained Fiber Speedometer ➔ SoC Hardware Video Decoders
+        (H.264/H.265/AV1) ➔ High-Intensity RGBW Subpixel & Burn-In Flasher.
 
-📱 3. Immersive Touchscreen & Digitizer Matrix
+  - 🟡 Expanded Hardware Lab (13 Automated Tests + Manual Sensory Bench):
 
-  - Edge-to-Edge Fullscreen Mapping: Utilizes immersive full-screen rendering to
-    hide system navigation and status bars.
-  - Strict \ge 98\% Pass Threshold: High-precision grid layout instantly
-    highlights broken digitizer traces, ghost touches, or dead rows.
+      - Full physical hardware audit. Runs network and satellite queries first,
+        followed by haptic coils, biometric enclaves, and 3D graphics.
+      - Automated Cascade: GPS Sat-Lock & TTFF Meter (Runs #1) ➔ Multi-CDN
+        Network Latency (Runs #2) ➔ 3-Stage Haptic Motor Cadence (Tick, Pulse,
+        Rumble) ➔ Biometric Enclave Scanner HUD (TEE / StrongBox & WebAuthn
+        audit) ➔ Kinetic Scroll & Frame Pacing Stutter Monitor ➔ 2-Phase 3D GPU
+        Torus Knot (144k Polygons/sec stress) ➔ Battery Thermals ➔ Stereo
+        Separation ➔ Visual DOM Chamber ➔ Fast Storage I/O ➔ Speedometer ➔
+        Hardware Video Codecs ➔ Subpixel Uniformity Flasher.
+      - Manual Interactive Bench (Underneath): USB-C Charging Port Sentry ➔
+        Fullscreen Touch Matrix (94% Calibrated Threshold) ➔ 12-Second Ghost
+        Touch & Jitter Trap ➔ Live 10-Finger Multi-Touch Pad ➔ Calibrated dB
+        Acoustic Studio ➔ Dual Camera Sensors & Hardware Flashlight Torch.
 
-⚡ 4. Visual DOM & Reflow Stress Chamber
+  - 🔴 Advanced Forensic Workstation (16 Automated Tests + Forensic & Escrow
+    Suite):
 
-  - Full-Screen Layout Engine: Generates 3,000+ dynamic DOM elements in
-    real-time.
-  - Compositor Benchmarking: Measures layout calculate latency, style
-    recalculations, paint times, and DOM nodes-per-second throughput.
+      - Maximum forensic audit for power users, device repair technicians, and
+        second-hand buyers.
+      - Automated Cascade: GPS Sat-Lock ➔ Multi-CDN Ping ➔ Audio Roundtrip
+        DAC-to-Mic Echo Latency Gauge (calculates Bluetooth/gaming lag in ms)
+        ➔ 60-Second Sustained Thermal Throttle Decay Curve ➔ App Permission
+        Detective ➔ Full Hardware Suite Cascade.
+      - Manual Forensic & Escrow Suite (Underneath):
+          - ⚙️ Android Settings Triage Guide: In-app pathfinder for Developer
+            Options, Battery Optimization Exceptions, and Location Accuracy with
+            zero webview URL navigation crashes.
+          - 📖 Developer Options Master Codex: Fully searchable reference library
+            covering canonical AOSP and Samsung One UI settings (0.5x Animation
+            Scales, GPUWatch, Cached App Freezer, Disable Absolute Volume, 90Hz
+            Display Refresh Meter, Force 4x MSAA) equipped with plain-English
+            explanations and 🟢 SAFE, 🟡 CAUTION, and 🔴 DANGER safety ratings.
+          - 🧠 Knowledge Doctor Symptom Solver: Correlates real-time hardware
+            telemetry to common user symptoms (charging heat, standby drain,
+            gaming drops, Wi-Fi stalls, phantom touches) with step-by-step
+            action plans.
+          - 🤝 Used Phone Pre-Purchase Escrow Audit: 3-minute physical inspection
+            checklist outputting a definitive Buy / Negotiate health report.
+          - 📦 In-Browser APK Deconstructor: Client-side ZIP central directory
+            parser extracting package headers, Dalvik bytecode (DEX), Target
+            SDK, architecture flags (ARM64 vs ARMv7), and declared permissions.
+          - 📁 Multi-File Large File Hunter: Storage Access Framework (SAF)
+            compatible batch scanner that locates media over 50MB and flags
+            duplicates without file-picker lockouts.
 
-🔐 5. Visual Biometric Enclave Scanner HUD
+🔬 Key Engineering & Diagnostic Highlights:
 
-  - Interactive Laser Scanner: Cybernetic scanning interface inspecting hardware
-    security modules.
-  - Itemized Hardware Checklist: Verifies Hardware-Backed Keystore
-    (TEE/StrongBox), User Platform Authenticator (Biometrics/UDFPS), Secure
-    Cryptographic Enclave, and OS WebAuthn Passkey sandboxing.
+  - Prioritized & Filtered Health Report: Dynamically filters to display only
+    the tests executed in your session, strictly ranked by severity: 🔴 CRITICAL
+    FAILURES at the top ➔ 🟡 SYSTEM WARNINGS next ➔ 🟢 CONFIRMED PASSES grouped
+    below. Untested modules are tucked neatly into a collapsible bottom tray.
+  - Calibrated 94% Touch Matrix: Specifically tuned to account for Android
+    gesture navigation pills and front camera punch-holes/notches, ensuring
+    accurate digitizer dead-row mapping without false failures or block
+    over-filling.
+  - 12-Second Ghost Touch Sentry: Features a 2-second hands-off arming buffer
+    allowing you to set the phone down flat before electrostatic listening
+    begins, eliminating self-inflicted false touch triggers.
+  - Decoupled Kinetic Scroll & Thermal Benchmarks: Real-time frame pacing and
+    sustained thermal headroom curves log their results immediately in automated
+    cascades without hanging on pending states.
+  - 10 High-Contrast Themes: Fully integrated palette matrix including Matrix
+    Green, Dracula Purple, Blood Matrix, Sunset Amber, Nordic Frost, and a
+    razor-sharp Soft Slate Light Mode with high-contrast borders and deep navy
+    typography.
+  - 🛡️ Dead-Zone Shielding Buffer: For devices with shattered digitizers or
+    unresponsive bottom glass, toggle the shield to shift interactive controls
+    safely upward into functional display rows.
 
-📶 6. 5-Second Fiber Speedometer & Network Probe
+🔒 Privacy & Independence Philosophy:
 
-  - Sustained Parallel Throughput: Multi-stream edge CDN data stream measuring
-    live Mbps throughput on an animated tachometer dial.
-  - Latency & Jitter Profiling: Direct millisecond ping latency and packet
-    jitter calculations.
-
-📜 7. Kinetic Smooth Scroll & Frame Pacing Auditor
-
-  - High-Velocity Inertia Stress: Renders high-density vector cards at high
-    speed to detect compositor frame drops and micro-stutters.
-  - Display Optimization Guide: Provides recommendations for display flags (such
-    as chrome://flags/#smooth-scrolling) to resolve touch-drag latency.
-
-🎬 8. Live Video Stream & Hardware Decoder Probe
-
-  - Live Video Pipeline Audit: Real-time video player evaluating hardware
-    H.264/VP9/AV1 decoding efficiency.
-  - Buffer & Sync Profiling: Tracks video frame drop counters, buffer cache
-    refills, and audio-video synchronization.
-
-🧭 9. 3D Gyroscope & Fluid Level Radar Scope
-
-  - High-Precision Motion Radar: 60 FPS military-grade radar reticle with 3-axis
-    pitch, roll, and alpha tracking.
-  - Fluid Bubble Level: Calibrated digital level indicator reacting instantly to
-    device orientation.
-
-📍 10. GPS Sat-Lock & TTFF Meter
-
-  - Satellite Lock Telemetry: Queries device GPS hardware with high accuracy.
-  - TTFF Measurement: Measures exact Time-to-First-Fix in milliseconds alongside
-    real-time radial meter accuracy.
-
-💾 11. Flash Storage Quota & IndexedDB Write Benchmark
-
-  - Storage Allocation: Live breakdown of total, used, and free internal flash
-    storage.
-  - I/O Write Stress: High-frequency database write stress tester calculating
-    real-time storage throughput in MB/s.
-
-🎨 12. Subpixel & AMOLED Burn-In Flasher
-
-  - Full-Spectrum Color Cycle: High-intensity Red, Green, Blue, White, and Black
-    full-screen flashers to inspect dead pixels, tint uniformity, and AMOLED
-    ghosting.
-
-🔊 13. Stereo Separation & Frequency Sweep
-
-  - Channel Isolation: Independent Left/Right audio channel isolation checks.
-  - Tone Generator: Smooth continuous triangle-wave audio sweep from 150 Hz up
-    to 12,000 Hz to detect speaker rattle and frequency cutoffs.
-
-⚡ MASTER AUTOMATION & REPORTING
-
-  - ⚡ 1-Click Automated Diagnostic Cascade: Master batch runner that
-    automatically executes automated benchmarks in sequence with visual
-    transitions.
-  - 📋 Master Device Health Report: Comprehensive diagnostic report displaying
-    pass/fail statuses and hardware specifications (SoC, physical resolution
-    with DPR scaling, unmasked GPU engine, and battery health).
-  - 📲 One-Tap Export & Sharing: Instant clipboard text copy and native Android
-    share sheet integration.
-  - 🛠️ Integrated Troubleshooting Playbook: Collapsible on-device hardware
-    playbook providing troubleshooting steps for dead touch rows, GPS timeouts,
-    and storage wear.
-  - 🛡️ Hardware Dead-Zone Shield: Accessibility layout buffer that shifts UI
-    controls away from broken screen edges or damaged digitizer rows.
-  - 🎨 10 High-Contrast Themes & 4-Tier Font Scaling: High-contrast themes (Dark
-    Stealth, Matrix Green, Soft Slate, Blood Matrix, Cyber Yellow, Cyberpunk
-    Pink, Nordic Frost, Dracula, Sunset Amber, Solarized Ocean) and 4 selectable
-    typography scales.
-
-🐉 DEVELOPER COPY
-
-Welcome to Morphs Creations!
-I am an independent developer dedicated to crafting lightweight,
-high-performance utilities and AI creation tools. The development of these
-independent tools is my primary focus and sole source of livelihood. If my
-creations bring value or creativity to your workflow, please consider dropping a
-tip. Thank you sincerely for your support.
+  - Zero Analytics & Zero Tracking: No third-party trackers, no Firebase, no
+    crash telemetry, and zero remote logging.
+  - 100% Offline Capable: All benchmarks, decoders, ZIP parsers, and diagnostic
+    engines execute locally in device RAM.
+  - Hardware Safe: Operates strictly within standard operating system safety
+    limits to ensure reliable hardware diagnostics.
