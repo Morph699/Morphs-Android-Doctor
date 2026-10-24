@@ -1,6 +1,6 @@
 <img width="1024" height="1536" alt="Morphs_Android Doctor" src="https://github.com/user-attachments/assets/5f88b9c3-cbd9-4088-acea-af61497bfc66" />
 
-📱 Morphs Android Doctor (v4.52)
+📱 Morphs Android Doctor
 
 Professional Client-Side Hardware Diagnostics, Stress-Testing & Forensic Suite
 
