@@ -1,59 +1,59 @@
-<img width="1024" height="1536" alt="Morphs_Android Doctor" src="https://github.com/user-attachments/assets/5f88b9c3-cbd9-4088-acea-af61497bfc66" />
+<img width="2048" height="2048" alt="AndroidDoctor" src="https://github.com/user-attachments/assets/eb07d651-93d5-4974-aec4-cadb477e4900" />
 
-📱 Morphs Android Doctor
+### **Morphs Android Doctor**
+*Professional Client-Side Hardware Diagnostics, Digitizer Lab & Device Health Suite*
 
-Professional Client-Side Hardware Diagnostics, Stress-Testing & Forensic Suite
+### **Product Overview**
+**Morphs Android Doctor** is a lightweight, all-in-one hardware diagnostic workstation engineered specifically for Android smartphones and tablets. Operating **100% client-side, it provides instant, non-invasive hardware audits without requiring root access, intrusive background permissions, or third-party app installations.
 
-Morphs Android Doctor is a lightweight, zero-dependency diagnostic workstation engineered specifically for modern Android devices. Operating 100% client-side inside mobile browsers and WebViews, it provides deep hardware health audits, real-time sensor calibration, and thermal stress testing—with zero app installations, zero telemetry tracking, and zero background bloat.
+Whether you are testing an existing device, troubleshooting screen jitter and thermal throttling, or evaluating a used phone before purchasing, Morphs Android Doctor delivers lab-grade telemetry, sensor stress testing, and forensic hardware analysis in seconds.
 
-Whether verifying a newly purchased phone, troubleshooting persistent battery drain or ghost touches, or stress-testing mobile GPU silicon, Morphs Android Doctor delivers deep forensic insights directly on your device.
+### **Key Features & Capabilities**
 
-🌟 Key Highlights & Engineering Features
+* **Real-Time Hardware Baseline:** Instantly detects OEM device model, active CPU architecture, system memory allocation, display resolution, pixel density ratio (DPR), graphics renderer, and continuous live screen refresh rate (FPS).
+* **High-Density Digitizer & Touch Matrix:** Fullscreen 1,056-block micro-grid digitizer test to locate dead zones, broken trace lines, and unresponsive screen areas.
+* **Ghost Touch & Jitter Sentry:** Calibrated hands-off idle trap with an arming buffer to detect phantom touches, ground-loop interference, and faulty digitizer sensors.
+* **Cinematic 3D GPU Benchmark Suite:** WebGL-accelerated 3D graphics benchmarks measuring real-time frame rates, frame time consistency, and 1% low frame drops across geometry grids, high-poly torus knots, multi-light PBR fill-rate tests, particle swarms, and volumetric cyber tunnels.
+* **Thermal Throttle Curve:** Real-time stress engine that measures sustained performance under load to evaluate thermal headroom and identify silicon throttling.
+* **Hardware Video Codec Matrix:** Directly audits system VPU hardware acceleration across H.264, H.265 (HEVC), AV1, and VP9 video decoding profiles.
+* **Acoustic & Audio Studio:** Logarithmic acoustic decibel (dB) meter with live FFT waveform visualization, stereo separation frequency sweeps (150 Hz to 12,000 Hz), and roundtrip DAC-to-microphone echo latency measurements.
+* **Display Health & Subpixel Flasher:** Fullscreen RGBW color cycling to detect dead subpixels, color uniformity defects, and AMOLED burn-in.
+* **Sensors & Connectivity Suite:** Live 3D gyroscope fluid level, multi-point concurrent touch tracker (up to 10 fingers), GPS satellite lock & accuracy audit, multi-target CDN ping jitter meter, and sustained multi-stream network speedometer.
+* **Forensic Power Tools:** In-browser APK manifest inspector, client-side large file storage scanner, and a guided 3-minute physical escrow audit checklist for evaluating secondhand phones.
+* **Built-in Troubleshooting Guides:** Plain-English Developer Options Master Codex and an interactive Symptom-Based Diagnostic Triage Engine to troubleshoot battery drain, unexpected heating, touch lag, and connectivity drops.
+* **Dead-Zone Safe Buffer:** On-demand interface shield that shifts critical controls away from broken glass or damaged display margins.
 
-  - 🔬 100% Client-Side & Air-Gapped Privacy: Zero data ever leaves your device. All tests—from storage I/O and camera sensor audits to APK manifest deconstruction—run locally in volatile memory.
-  - 📱 High-Density Micro-Grid Touch Matrix (24 \times 44 = 1,056 Blocks): Upgraded from coarse blocks to point-accurate micro-cells, preventing finger-bleed and exposing the exact broken digitizer rows or dead bands on
-    damaged displays.
-  - 👻 Hands-Off Ghost Touch & Jitter Trap: 12-second automated sentry with a 2-second grace arming buffer to diagnose dirty charging ground loops and digitizer hardware faults without false triggers.
-  - 🌐 Native WebGL 2.0 5-Phase 3D Benchmark: Includes an intensive 5-phase cinematic GPU stress test (Instanced Grid \rightarrow 36k High-Poly Torus\rightarrow 4-Light Specular PBR \rightarrow 5,000-Particle Swarm
-    \rightarrow Volumetric Cyber Tunnel with Fresnel Core). 
-  - 📉 60-Second Sustained Thermal Throttle Bench: Real-time FPS decay and thermal headroom plotting under sustained load to detect silicon junction throttling.
-  - 🎙️ Calibrated Acoustic dB Studio: Fourier transform (FFT) logarithmic spectrum analyzer and decibel meter with RMS and peak-hold tracking.
-  - 🧠 Knowledge Doctor Symptom Solver: An interactive triage engine that correlates observed hardware anomalies (overheating, rapid drain, UI stutter) with live telemetry to generate actionable playbooks.
-  - 📖 Developer Options Master Codex: Plain-English guide to Android and Samsung One UI developer toggles (0.5x animation scales, cached app execution freeze, GPUWatch, and MSAA warnings) with safety ratings.
-  - 🛡️ Dead-Zone Shielding: High-contrast layout shift toggle protecting interactive areas from non-responsive screen borders and dead digitizer lines.
+### **Tier & Feature Access Matrix**
 
-⚡ 3-Tier Multi-View Workspace
+Morphs Android Doctor offers flexible access levels tailored for quick casual checks, in-depth hardware labs, and advanced forensic inspections:
 
-🥉 1. Quick System Scan (Free Core • 8 Automated Tests with Donation/Tip)
+#### 🥉 **Core Free Tier**
+* **Quick System Scan (5 Core Tests):** Multi-CDN Latency/Ping, Battery State & Thermal Headroom, Stereo Audio Frequency Sweep, DOM Layout Latency stress, and Storage Quota / IndexedDB I/O test.
+* **Live Hardware Baseline:** OEM model identification, CPU core metrics, RAM indicator, resolution, GPU renderer, and live FPS monitor.
+* **3D Gyroscope & Fluid Level:** Fullscreen tilt and orientation alignment tool.
+* **Hardware Shield:** Dead-Zone Safe Buffer toggle.
+* **Visual Modes:** Soft Slate (Light) and Stealth (Dark Mode) themes with Small and Medium typography scaling.
 
-  - Core Baselines (Free): Multi-CDN Latency & DNS Ping, Battery Hardware & Thermals, 150Hz–12kHz Stereo Oscillator Sweep, DOM Layout/Reflow Stress (3,000 nodes), and IndexedDB Storage Quota & I/O.
-  - Donation Tier Unlocks ('D'): 5-Second Fiber Speedometer, Hardware SoC Video Codec Matrix (H.264, H.265, AV1, VP9), Subpixel RGBW Burn-In Flasher, and the exclusive Matrix Green theme.
+#### ☕ **Supporter / Donation Tier** *(Unlocked via any voluntary tip)*
+* **Everything in the Free Tier, plus:**
+* **Full Quick System Scan (8 Tests):** Unlocks the 8-Second Parallel Speedometer, Hardware Video Codec (VPU) matrix, and Subpixel RGBW Flasher.
+* **Exclusive Theme:** Unlocks the Matrix Green visual palette.
+* **Priority Support Channel.**
 
-🥈 2. Expanded Hardware Lab (Standard Tier • 'S' • $3.99)
+#### 🥈 **Standard Tier** *(One-Time Purchase)*
+* **Everything in Supporter Tier, plus:**
+* **Expanded Hardware Lab Room (13 Automated Tests):** Runs GPS satellite positioning, multi-CDN diagnostics, haptic vibration cadence, biometric security enclave audit, kinetic scroll pacing, and the 10-Second Dual-Phase 3D WebGL GPU Benchmark.
+* **Interactive Touch Bench:** Micro-Grid Digitizer Matrix (24x44 grid), 12-Second Ghost Touch Sentry, Multi-Touch Finger Pad (1–10 points), and USB-C Port Conductivity & Amperage Sentry.
+* **Sensor Studio:** Acoustic dB Meter & Live Waveform visualizer, Camera Sensor Viewfinder Lab (Front/Rear switching).
+* **Enhanced Visual Options:** Cyber Yellow and Cyberpunk Pink themes, plus Large typography scaling.
 
-  - 13 Automated Sensors: Satellite GPS Fix & TTFF Meter, Multi-CDN DNS, Haptic Motor 3-Stage Cadence, Biometric Enclave / Keystore Scanner HUD, Kinetic Scroll Frame Pacing Benchmark, and the 10-Second Dual-Phase 3D WebGL GPU Benchmark (36k Torus + 4-Light PBR).
-  - Interactive Bench: USB-C Port Conductivity & Velocity Sentry, 24 \times 44 Micro-Grid Touch Matrix, 12s Ghost Touch Trap, 10-Finger Multi-Touch Pad, Calibrated dB Acoustic Studio, and Camera Viewfinder Lab.
-  - Visuals & Scaling: Standard theme matrix (Cyber Yellow, Cyberpunk Pink) and Large font scaler.
+#### 🥇 **Pro Premium Tier** *(Complete Suite)*
+* **Everything in Standard Tier, plus:**
+* **Advanced Forensic Suite Room (16 Automated Tests):** Full sequential hardware sweep including Audio Roundtrip Echo Latency, 60-Second Sustained Thermal Throttle Decay Curve, and the 25-Second 5-Phase Cinematic 3D GPU Benchmark (featuring Volumetric Cyber Tunnel and Particle Swarm modes).
+* **Power-User Toolset:** In-browser APK ZIP & Manifest Deconstructor, Multi-File Large Storage Hunter (>50MB), Used Phone Escrow Inspection Engine, and Container Permission Detective.
+* **System Knowledge:** Full Developer Options Master Codex with instant search, and the Symptom-Based Diagnostic Triage Engine.
+* **Master Health Report:** One-click clipboard export and native sharing sheet integration for test results.
+* **Complete Theme Collection:** Unlocks all premium visual themes (Dracula Purple, Blood Matrix, Nordic Frost, Solarized Ocean, Sunset Amber) and Extra Large typography scaling.
 
-🥇 3. Advanced Forensic Suite (Pro Premium Tier • 'P' • $6.99)
-
-  - 16 Automated Forensic Tests: Roundtrip Audio DAC Echo Latency Meter (gaming/Bluetooth buffer delay), 60-Second Thermal Throttle Curve, and the full 25-Second 5-Phase Fullscreen 3D WebGL Suite (with Chaos Swarm & Cyber
-    Tunnel).
-  - Power-User Diagnostic Tools: In-Browser APK ZIP & Manifest Deconstructor, Multi-File Large File Hunter (SAF batch auditing), Used Phone 3-Minute Pre-Purchase Escrow Audit, Developer Options Master Codex, and the Symptom
-    Solver engine. 
-  - All Themes & Customization: Complete 10-theme suite (Nordic Frost, Blood Matrix, Solarized Ocean, Sunset Amber, and Dracula Purple) with XL font scaling.
-  - Full Report Export: Ranked Master Health Report with direct Copy Text and system Share Sheet relays.
-
-🎨 10 High-Contrast Themes & Typography
-
-  - Theme Palette: Soft Slate (Default Light), Stealth Dark, Matrix Green, Cyber Yellow, Cyberpunk Pink, Dracula Purple, Blood Matrix, Nordic Frost, Solarized Ocean, and Sunset Amber.
-  - Typography: Responsive 4-tier dynamic font scaling (Small, Medium [Default], Large, and Extra Large) with anti-squash mobile header pinning.
-
-🔒 Cryptographic Key Verification (Section 4 Compliant)
-
-Keys are generated and verified entirely offline without internet pings:
-
-  - Format: 12-character clean alphanumeric uppercase format (strictly excluding confusing I and O characters).
-  - Tier Flags: Unified across products (Pro Premium, Standard, Donation / Supporter).
-  - Persistence: Instant key textbox wipe upon validation; hashed with salted cryptographic routines for secure local storage.
-  - One-Touch Bare-Metal Reset: Includes a themed Master Factory Reset dialog to instantly wipe local cache, IndexedDB benchmarks, and persistent tokens.
+### **Privacy & Security Commitment**
+Morphs Android Doctor processes **100% of diagnostics locally in client memory**. No telemetry, sensor streams, device serial numbers, or file data are ever uploaded or transmitted across the network, ensuring complete operational privacy.
